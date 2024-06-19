@@ -1,0 +1,6 @@
+../Src/main.c:38:6:delay	16	static
+../Src/main.c:42:13:LEDRED_init	16	static
+../Src/main.c:74:13:Button_init	16	static
+../Src/main.c:104:13:LEDREDControl_SetStatus	16	static
+../Src/main.c:116:16:ButtonRead_Status	24	static
+../Src/main.c:126:5:main	16	static
